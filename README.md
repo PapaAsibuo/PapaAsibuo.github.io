@@ -7,6 +7,6 @@ I have interests in programming, web app development, and 3D Animating.
 My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Core Razorpages, and I animate using the blender software
 
 ## Connect with me
-[Youtube:](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
-[Linkedin:](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
-[Instagram:](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA_J2c6PDrAhUGZd8KHTwJCm8QFjABegQIAxAB&url=https%3A%2F%2Fwww.instagram.com%2Fpapakofi.a%2F&usg=AOvVaw3MXYzq82VbEiUoPx1tzcnI)
+[Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
+[Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
+[Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA_J2c6PDrAhUGZd8KHTwJCm8QFjABegQIAxAB&url=https%3A%2F%2Fwww.instagram.com%2Fpapakofi.a%2F&usg=AOvVaw3MXYzq82VbEiUoPx1tzcnI)
