@@ -3,6 +3,8 @@ I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineerin
 
 I'm using github primarily for my Data Journalism class: From Stats to Stories, as well as to post some of my programming mini projects.
 
+I love doing sports and I consider myself a social person.
+
 I have interests in programming, web app development, and 3D Animating.
 My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Core Razorpages, and I animate using the blender 2.79b software.
 
