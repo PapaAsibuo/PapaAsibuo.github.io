@@ -8,7 +8,7 @@ I love doing sports and I consider myself a social person. I am currently a firs
 I have interests in programming, web app development, and 3D Animating.
 My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Core Razorpages, and I animate using the blender 2.79b software.
 
-
+![Me][https://user-images.githubusercontent.com/71460438/93732444-5ef97500-fb9f-11ea-936d-9f3059fd894b.jpeg]
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
