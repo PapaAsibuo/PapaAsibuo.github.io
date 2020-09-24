@@ -10,6 +10,12 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ![OAZR6685](https://user-images.githubusercontent.com/71460438/93732831-15aa2500-fba1-11ea-9c0c-e0d7ddf74a78.jpeg)
 
+## Data Stories
+
+![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
+
+I discovered that the largest percentage of undergraduate students in Lehigh live in residence halls. But that's no surprise. What was surprising was the large number of students living off campus (38.7%)
+
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
