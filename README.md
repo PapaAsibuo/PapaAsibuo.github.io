@@ -17,7 +17,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
 I discovered that the largest percentage of undergraduate students in Lehigh live in residence halls. But that's no surprise. What was shocking was the large number of students living off campus (38.7%).
 
-All statistics were gained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
+All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
