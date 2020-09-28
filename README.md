@@ -10,9 +10,9 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ![OAZR6685](https://user-images.githubusercontent.com/71460438/93732831-15aa2500-fba1-11ea-9c0c-e0d7ddf74a78.jpeg)
 
-## Data Stories
+# Data Stories
 
-# Where do lehigh students live?
+## Where do lehigh students live?
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
@@ -20,7 +20,7 @@ I discovered that the largest percentage of undergraduate students in Lehigh liv
 
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-# Lehigh's undergraduate population by ethnicity
+## Lehigh's undergraduate population by ethnicity
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 I created this infographic to show the different races (and their proportions) within the Lehigh Undergraduate community. 
