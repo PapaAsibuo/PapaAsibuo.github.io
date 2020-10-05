@@ -36,12 +36,14 @@ This data was obtained from the student profile section of the [University Stati
 ### A history of Slave Trade
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-Here are links to all the sources of information used in making this timeline:
 
+While creating this infographic I realized a number of things made it harder to empathize with the people in study such as these events being so long ago (a time without cameras) as such, the subtitute of pictures with paintings and the use of the word "slave".
+
+Here are links to all the sources of information used in making this timeline:
 [Story of Whipped Peter](https://www.history.com/news/whipped-peter-slavery-photo-scourged-back-real-story-civil-war)
 [End of Slave Trade but not Slavery](https://www.dw.com/en/as-slave-trade-abolition-is-celebrated-millions-of-africans-continue-to-live-as-slaves/a-18337189)
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
-
+ 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
