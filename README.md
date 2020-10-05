@@ -40,6 +40,7 @@ This data was obtained from the student profile section of the [University Stati
 While creating this infographic, I realized a number of things made it harder to empathize with the people in study. For example: these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings. The use of the word "slave" is another example.
 
 Here are links to all the sources of information used in making this timeline:
+[Important dates in slave trade](http://news.bbc.co.uk/cbbcnews/hi/newsid_6360000/newsid_6368500/6368507.stm)
 [Story of Whipped Peter](https://www.history.com/news/whipped-peter-slavery-photo-scourged-back-real-story-civil-war)
 [End of Slave Trade but not Slavery](https://www.dw.com/en/as-slave-trade-abolition-is-celebrated-millions-of-africans-continue-to-live-as-slaves/a-18337189)
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
