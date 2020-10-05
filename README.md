@@ -32,7 +32,7 @@ This data was obtained from the student profile section of the [University Stati
 ### Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### A history on Trans-Atlantic Slave Trade
+### A history of Slave Trade
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
