@@ -12,7 +12,9 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 # Data Stories
 
-## Where do lehigh students live?
+## Infographics
+
+### Where do lehigh students live?
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
@@ -20,15 +22,19 @@ I discovered that the largest percentage of undergraduate students in Lehigh liv
 
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-## Lehigh's undergraduate population by ethnicity
+## Timelines
+### Lehigh's undergraduate population by ethnicity
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 I created this infographic to show the different races (and their proportions) within the Lehigh Undergraduate community. 
 This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
 
-## Le-Laf: A history of Lehigh-Lafayette Football rivalry
+### Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+### A history on Trans-Atlantic Slave Trade
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
