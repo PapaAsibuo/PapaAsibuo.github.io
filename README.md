@@ -22,12 +22,13 @@ I discovered that the largest percentage of undergraduate students in Lehigh liv
 
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-## Timelines
+
 ### Lehigh's undergraduate population by ethnicity
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 I created this infographic to show the different races (and their proportions) within the Lehigh Undergraduate community. 
 This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
+## Timelines
 
 ### Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
