@@ -37,7 +37,7 @@ This data was obtained from the student profile section of the [University Stati
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-While creating this infographic I realized a number of things made it harder to empathize with the people in study such as these events being so long ago (a time without cameras) as such, the subtitute of pictures with paintings and the use of the word "slave".
+While creating this infographic, I realized a number of things made it harder to empathize with the people in study. For example: these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings. The use of the word "slave" is another example.
 
 Here are links to all the sources of information used in making this timeline:
 [Story of Whipped Peter](https://www.history.com/news/whipped-peter-slavery-photo-scourged-back-real-story-civil-war)
