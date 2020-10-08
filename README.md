@@ -50,7 +50,7 @@ Here are links to all the sources of information used in making this timeline:
  
  ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95499750-c111f280-0973-11eb-9cb1-a58be111575a.png)
  
- This bar chart shows the data for Undergraduate enrollment in each of Lehigh University's Colleges as of the year 2019. With the college of Arts& Sciences being the most popular and the General College Div being the least.
+ This bar chart shows the data for Undergraduate enrollment in each of Lehigh University's Colleges as of the year 2019. With the college of Arts & Sciences being the most popular and the General College Div being the least.
 Data for this bar chart was obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
  
