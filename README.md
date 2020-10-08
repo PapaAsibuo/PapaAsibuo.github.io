@@ -45,6 +45,11 @@ Here are links to all the sources of information used in making this timeline:
 [End of Slave Trade but not Slavery](https://www.dw.com/en/as-slave-trade-abolition-is-celebrated-millions-of-africans-continue-to-live-as-slaves/a-18337189)
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
  
+ 
+ ### 
+ 
+ ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder](https://user-images.githubusercontent.com/71460438/95499282-13064880-0973-11eb-8aa6-7cf017fa4f2f.png)
+
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
