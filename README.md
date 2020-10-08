@@ -46,13 +46,10 @@ Here are links to all the sources of information used in making this timeline:
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
  
  
- ### 
+ ### Undergraduate Enrollment in Each College in Lehigh
  
  ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder](https://user-images.githubusercontent.com/71460438/95499282-13064880-0973-11eb-8aa6-7cf017fa4f2f.png)
- ![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
-
-![title] (https:/ /name.github.io/title of png.png)
-
+ 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
