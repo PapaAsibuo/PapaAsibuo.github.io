@@ -53,6 +53,10 @@ Here are links to all the sources of information used in making this timeline:
  This bar chart shows the data for Undergraduate enrollment in each of Lehigh University's Colleges as of the year 2019, with the college of Arts & Sciences being the most popular and the General College Div being the least.
 Data for this bar chart was obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
+### Best basketball player in terms of points per game
+
+This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. In light of the NBA Final this weekend, I watched and admired the way Lebron James played. I began to believe that he's the greatest player of all time. As such, I turned to search for the facts. According to the data I found, Lebron James actually comes out third in the race.
+
  
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
