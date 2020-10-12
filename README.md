@@ -55,6 +55,8 @@ Data for this bar chart was obtained from Lehigh University's [Office of Institu
 
 ### Best basketball player in terms of points per game
 
+![Nba_Player_vs _Points_per_game_(age_34_season)_Points_per_game_(age_34_season)_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95696540-8628ec80-0c09-11eb-891d-693412c5e5a5.png)
+
 This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. In light of the NBA Final this weekend, I watched and admired the way Lebron James played. I began to believe that he's the greatest player of all time. As such, I turned to search for the facts. According to the data I found, Lebron James actually comes out third in the race. 
 Data for this bar chart was obtained from [the sports rush website.](https://thesportsrush.com/comparing-lebron-james-michael-jordan-and-kobe-bryant-in-their-age-34-season/)
 
