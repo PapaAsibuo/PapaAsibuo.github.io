@@ -65,6 +65,13 @@ This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their a
 
  This line graph shows how the population of Lehigh University's top 3 colleges over time. In 2015, the School of Engineering was the most populous, with Arts & Sciences in second place and Business in third. Currently, Arts& Sciences has the most students, followed by Engineering, and lastly Business in a steady third place. Data for this graph was obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/university-profile)
  
+### Parent Income vs Child Income
+
+![Parent_income_vs_Child_Income_k_mean_chartbuilder](https://user-images.githubusercontent.com/71460438/96173475-ecf22280-0ef5-11eb-8d7c-50e7f7cf2989.png)
+
+
+This scatter plot depicts the relationship between 
+ 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-asibuo-b9b7a11b6)
