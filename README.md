@@ -69,8 +69,8 @@ This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their a
 
 ![Parent_income_vs_Child_Income_k_mean_chartbuilder](https://user-images.githubusercontent.com/71460438/96173475-ecf22280-0ef5-11eb-8d7c-50e7f7cf2989.png)
 
-
-This scatter plot depicts the relationship between 
+This scatter plot depicts the relationship between parent income and child income. The positive correlation in the data shows that child income is directly proportional to Parent income. This data backs the popular claim that once born into poverty it is very difficult to make your way to riches. This data was obtained from [Harvard University's Opportunity Insights](https://opportunityinsights.org/data/).
+ 
  
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
