@@ -59,7 +59,7 @@ Data for this bar chart was obtained from Lehigh University's [Office of Institu
 
 This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. Lebron came in 3rd place with Michael Jordan in 1st place. Data for this bar chart was obtained from [the sports rush website.](https://thesportsrush.com/comparing-lebron-james-michael-jordan-and-kobe-bryant-in-their-age-34-season/)
 
-### Lehigh's Enrollment into various colleges over time
+### Lehigh's Student Enrollment into various colleges over time
 
 ![Population_of_Lehigh's_top_3_Colleges_for_the_past_5_years_Arts_ _Sciences_Engineering_Business_chartbuilder-2](https://user-images.githubusercontent.com/71460438/96169752-a0f0af00-0ef0-11eb-98a9-72b2bc2cdb7d.png)
 
