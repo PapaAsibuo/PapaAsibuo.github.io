@@ -70,6 +70,11 @@ This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their a
 ![Parent_income_vs_Child_Income_k_mean_chartbuilder](https://user-images.githubusercontent.com/71460438/96173475-ecf22280-0ef5-11eb-8d7c-50e7f7cf2989.png)
 
 This scatter plot depicts the relationship between parent income and child income. The positive correlation in the data shows that child income is directly proportional to Parent income. This data backs the popular claim that once born into poverty it is very difficult to make your way to riches. This data was obtained from [Harvard University's Opportunity Insights](https://opportunityinsights.org/data/).
+
+### World's Top Cycling Cities (2019)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
+
+This Map shows the top 20 cycling cities in the world as of 2019. This map was created using [Google My Map](http://google.com/mymaps). Data for this map was obtained from [Wired.com](https://www.wired.com)
  
  
 ## Connect with me
