@@ -75,7 +75,7 @@ This scatter plot depicts the relationship between parent income and child incom
 
 ![Lehigh_University_Acceptance_Rate_over_time_Acceptance_Rate_chartbuilder-2](https://user-images.githubusercontent.com/71460438/97132474-73400d00-171d-11eb-935f-53580ba3c102.png)
 
-This line graph shows how the selectivity of Lehigh University has changed over time. The acceptance rate of Lehigh University has ultimately decreased over the past 10 years years. With the lowest in 2018(22.3%) and the highest in 2010(37.9%).
+This line graph shows how the selectivity of Lehigh University has changed over time. The acceptance rate of Lehigh University has ultimately decreased over the past 10 years years. With the highest in 2010(37.9%) and the lowest in 2018(22.3%).
 
 Data for this line graph was obtaianed from [AcceptanceRate.com](http://www.acceptancerate.com/schools/lehigh-university) and [CollegeTuitionCompare.com](https://www.collegetuitioncompare.com/trends/lehigh-university/admission/).  
 
