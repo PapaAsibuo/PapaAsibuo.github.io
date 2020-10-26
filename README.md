@@ -73,6 +73,9 @@ This scatter plot depicts the relationship between parent income and child incom
 
 ### 
 
+
+Data for this line graph was obtaianed from [](http://www.acceptancerate.com/schools/lehigh-university)
+
 ### World's Top Cycling Cities (2019)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
 
