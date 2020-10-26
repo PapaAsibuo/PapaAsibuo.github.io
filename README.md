@@ -79,7 +79,7 @@ This Map shows the top 20 cycling cities in the world as of 2019. This map was c
  
 ### World's Top Tik Tok Users (2019)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fc9sYy5iL7v5CqQ1rZuF1fqVffE7ifwY" width="640" height="480"></iframe>
-
+c
 Tik Tok is a new app that is said to be very addictive and for various reasons has been banned in some countries. This map was created to show the top 10 countries with the highest tik tok usage in terms of the number of Users. The country with the greatest number of tik tok users is India with a total of 119.3 million users, second is the USA with 39.6 million users and third is Turkey with 28.4 million users. The data for this map was obtained from [Routenote](https://routenote.com/blog/top-10-countries-with-the-largest-number-of-tiktok-users/). This map was created using [Google My Map](http://google.com/mymaps).
  
 ## Connect with me
