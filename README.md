@@ -71,7 +71,9 @@ This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their a
 
 This scatter plot depicts the relationship between parent income and child income. The positive correlation in the data shows that child income is directly proportional to Parent income. This data backs the popular claim that once born into poverty it is very difficult to make your way to riches. This data was obtained from [Harvard University's Opportunity Insights](https://opportunityinsights.org/data/).
 
-### 
+### Lehigh University Acceptance Rate over time
+
+![Lehigh_University_Acceptance_Rate_over_time_Acceptance_Rate_chartbuilder-2](https://user-images.githubusercontent.com/71460438/97132474-73400d00-171d-11eb-935f-53580ba3c102.png)
 
 This line graph shows how the selectivity of Lehigh University has changed over time. The acceptance rate of Lehigh University has ultimately decreased over the past 10 years years. With the lowest in 2018(22.3) and the highest in 2010(37.9).
 
