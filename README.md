@@ -18,7 +18,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
-I discovered that the largest percentage of undergraduate students in Lehigh live in residence halls. But that's no surprise. What was shocking was the large number of students living off campus (38.7%).
+This visualization reveals that the largest percentage of undergraduate students in Lehigh live in residence halls. But that's no surprise. 
 
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
@@ -26,7 +26,7 @@ All statistics were obtained from Lehigh University's [Office of Institutional R
 ### Lehigh's undergraduate population by ethnicity
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
-I created this infographic to show the different races (and their proportions) within the Lehigh Undergraduate community. 
+This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. 
 This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
 ## Timelines
 
@@ -37,7 +37,7 @@ This data was obtained from the student profile section of the [University Stati
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-While creating this infographic, I realized a number of things made it harder to empathize with the people in study. For example: these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings. The use of the word "slave" is another example.
+While creating this infographic,  it was discovered that a number of things made it harder to empathize with the people in study. For example: these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings. The use of the word "slave" is another example.
 
 Here are links to all the sources of information used in making this timeline:
 [Important dates in slave trade](http://news.bbc.co.uk/cbbcnews/hi/newsid_6360000/newsid_6368500/6368507.stm)
