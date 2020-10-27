@@ -14,7 +14,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ## Infographics
 
-### Where do lehigh students live? (2019)
+## Where do lehigh students live? (2019)
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
@@ -23,17 +23,17 @@ This visualization reveals that the largest percentage of undergraduate students
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
 
-### Lehigh's undergraduate population by ethnicity (2019)
+## Lehigh's undergraduate population by ethnicity (2019)
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. 
 This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
 ## Timelines
 
-### Le-Laf: A history of Lehigh-Lafayette Football rivalry
+## Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### A history of Slave Trade
+## A history of Slave Trade
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -46,32 +46,32 @@ Here are links to all the sources of information used in making this timeline:
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
 
 
-### Undergraduate Enrollment in Each College in Lehigh (2019)
+## Undergraduate Enrollment in Each College in Lehigh (2019)
  
  ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95499750-c111f280-0973-11eb-9cb1-a58be111575a.png)
  
  This bar chart shows the data for Undergraduate enrollment in each of Lehigh University's Colleges as of the year 2019, with the college of Arts & Sciences being the most popular and the General College Div being the least.
 Data for this bar chart was obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-### Best basketball player in terms of points per game
+## Best basketball player in terms of points per game
 
 ![Nba_Player_vs _Points_per_game_(age_34_season)_Points_per_game_(age_34_season)_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95696540-8628ec80-0c09-11eb-891d-693412c5e5a5.png)
 
 This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. Lebron came in 3rd place with Michael Jordan in 1st place. Data for this bar chart was obtained from [the sports rush website.](https://thesportsrush.com/comparing-lebron-james-michael-jordan-and-kobe-bryant-in-their-age-34-season/)
 
-### Lehigh's Student Enrollment into various colleges over time
+## Lehigh's Student Enrollment into various colleges over time
 
 ![Population_of_Lehigh's_top_3_Colleges_for_the_past_5_years_Arts_ _Sciences_Engineering_Business_chartbuilder-2](https://user-images.githubusercontent.com/71460438/96169752-a0f0af00-0ef0-11eb-98a9-72b2bc2cdb7d.png)
 
  This line graph shows how the population of Lehigh University's top 3 colleges over time. In 2015, the School of Engineering was the most populous, with Arts & Sciences in second place and Business in third. Currently, Arts& Sciences has the most students, followed by Engineering, and lastly Business in a steady third place. Data for this graph was obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/university-profile)
  
-### Parent Income vs Child Income
+## Parent Income vs Child Income
 
 ![Parent_income_vs_Child_Income_k_mean_chartbuilder](https://user-images.githubusercontent.com/71460438/96173475-ecf22280-0ef5-11eb-8d7c-50e7f7cf2989.png)
 
 This scatter plot depicts the relationship between parent income and child income. The positive correlation in the data shows that child income is directly proportional to Parent income. This data backs the popular claim that once born into poverty it is very difficult to make your way to riches. This data was obtained from [Harvard University's Opportunity Insights](https://opportunityinsights.org/data/).
 
-### Lehigh University Acceptance Rate over time
+## Lehigh University Acceptance Rate over time
 
 ![Lehigh_University_Acceptance_Rate_over_time_Acceptance_Rate_chartbuilder-2](https://user-images.githubusercontent.com/71460438/97132474-73400d00-171d-11eb-935f-53580ba3c102.png)
 
@@ -79,13 +79,13 @@ This line graph shows how the selectivity of Lehigh University has changed over 
 
 Data for this line graph was obtaianed from [AcceptanceRate.com](http://www.acceptancerate.com/schools/lehigh-university) and [CollegeTuitionCompare.com](https://www.collegetuitioncompare.com/trends/lehigh-university/admission/).  
 
-### World's Top Cycling Cities (2019)
+## World's Top Cycling Cities (2019)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
 
 This Map shows the top 20 cycling cities in the world as of 2019. This map was created using [Google My Map](http://google.com/mymaps). Data for this map was obtained from [Wired.com](https://www.wired.com)
  
  
-### World's Top Tik Tok Users (2019)
+## World's Top Tik Tok Users (2019)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fc9sYy5iL7v5CqQ1rZuF1fqVffE7ifwY" width="640" height="480"></iframe>
 
 Tik Tok is a new app that is said to be very addictive and for various reasons has been banned in some countries. This map was created to show the top 10 countries with the highest tik tok usage in terms of the number of Users. The country with the greatest number of tik tok users is India with a total of 119.3 million users, second is the USA with 39.6 million users and third is Turkey with 28.4 million users. The data for this map was obtained from [Routenote](https://routenote.com/blog/top-10-countries-with-the-largest-number-of-tiktok-users/). This map was created using [Google My Map](http://google.com/mymaps).
