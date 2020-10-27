@@ -14,7 +14,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ## Infographics
 
-### Where do lehigh students live?
+### Where do lehigh students live? (2019)
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
@@ -23,7 +23,7 @@ This visualization reveals that the largest percentage of undergraduate students
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
 
-### Lehigh's undergraduate population by ethnicity
+### Lehigh's undergraduate population by ethnicity (2019)
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. 
@@ -46,7 +46,7 @@ Here are links to all the sources of information used in making this timeline:
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
 
 
-### Undergraduate Enrollment in Each College in Lehigh
+### Undergraduate Enrollment in Each College in Lehigh (2019)
  
  ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95499750-c111f280-0973-11eb-9cb1-a58be111575a.png)
  
