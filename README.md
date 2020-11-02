@@ -94,7 +94,7 @@ Tik Tok is a new app that is said to be very addictive and for various reasons h
 
 ## Lehigh University Party Scene(off Campus)
 
-
+These visualizations were created to illustrate the popularity of off campus parties in Lehigh University, as well as to assess the safety of students at these parties. Safety was assessed by asking whether students have ever felt unsafe at these off campus parties. These results were obtained from a survey sent out in the 2015-2016 academic year. Off campus parties proved to be very popular with (%) of students that responded having been to one. They also proved to be a relatively safe form of partying with (%) of students feeling safe at off campus parties.
  
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
