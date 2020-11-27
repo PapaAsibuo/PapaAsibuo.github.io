@@ -110,6 +110,12 @@ Since the bulk of the applicants were from America, it seemed worthwhile to inve
 
 Based on the findings, international students make up a mere (9%) of Lehigh University applicants. And Lehigh’s main contributors within the USA are New York, New Jersey, and Pennsylvania. This implies that Lehigh is more diverse than it may seem, as, out of these three, New York and New Jersey are in the top 10 most ethnically diverse states according to [WalletHub](https://wallethub.com/edu/most-least-diverse-states-in-america/38262). Here’s the link to the [original data set](https://docs.google.com/spreadsheets/d/1q8GDSx1Gp12doecsagcVVjftegMUzVxXMT69ZRMMN-c/edit#gid=157778056)
 
+
+## Gym membership statistics over the last 20 years
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q3q_dpXddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This short video was created to motivate people to workout during the pandemic. It employs data for the numbers of gym memberships over the years and calls onto the viewers to decide what the number would look like for 2020. All data for this video was obtained from [Statista.com](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/).
+
 ## Comic strip
 ![intro](https://user-images.githubusercontent.com/71460438/99771356-01b66d00-2ad7-11eb-8aee-ed6335af4426.png)
 
