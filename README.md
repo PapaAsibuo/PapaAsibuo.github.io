@@ -18,7 +18,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 ![Where do lehigh students live?](https://user-images.githubusercontent.com/71460438/94185525-622c8380-fe73-11ea-9fdc-9db5a547c57d.png)
 
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
-This visualization reveals that the largest percentage of undergraduate students in Lehigh live in residence halls. But that's no surprise. 
+This visualization reveals that the largest percentage of undergraduate students in Lehigh live in residence halls followed by off campus housing, and then fraternity and sorority housing respectfully. This is a regular trend in other years due to the limited properties available for rent in the Bethlehem area as off campus housing, as well as the fixed number of fraternity and sorority houses on Lehigh Campus.
 
 All statistics were obtained from Lehigh University's [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
