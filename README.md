@@ -17,9 +17,6 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 ## Where do lehigh students live? (2019)
 ![Where do lehigh students live?-2](https://user-images.githubusercontent.com/71460438/100537210-5916b480-321e-11eb-82d4-10e7a3116387.png)
 
-![2](https://user-images.githubusercontent.com/71460438/100562957-12c06480-32b5-11eb-8628-46e6ce152a22.png)
-
-
 This infographic was created using Canva. It shows the percentages of Lehigh students that live on campus, off campus, and in sorority and fraternity housing.
 This visualization reveals that the largest percentage of undergraduate students in Lehigh live in residence halls followed by off campus housing, and then fraternity and sorority housing respectfully. This is a regular trend in other years due to the limited properties available for rent in the Bethlehem area as off campus housing, as well as the fixed number of fraternity and sorority houses on Lehigh Campus.
 
@@ -28,6 +25,8 @@ All statistics were obtained from Lehigh University's [Office of Institutional R
 
 ## Lehigh's undergraduate population by ethnicity (2019)
 ![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
+
+![2](https://user-images.githubusercontent.com/71460438/100562957-12c06480-32b5-11eb-8628-46e6ce152a22.png)
 
 This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. 
 This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
