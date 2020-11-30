@@ -27,7 +27,6 @@ All statistics were obtained from Lehigh University's [Office of Institutional R
 
 
 ## Lehigh's undergraduate population by ethnicity (2019)
-![Lehigh's undergrad population by ethnicity](https://user-images.githubusercontent.com/71460438/94386465-bfdffa80-0115-11eb-8aa5-fba750854c0a.png)
 
 ![2](https://user-images.githubusercontent.com/71460438/100562957-12c06480-32b5-11eb-8628-46e6ce152a22.png)
 
