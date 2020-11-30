@@ -10,6 +10,10 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ![OAZR6685](https://user-images.githubusercontent.com/71460438/93732831-15aa2500-fba1-11ea-9c0c-e0d7ddf74a78.jpeg)
 ## [Universities in the USA](https://github.com/PapaAsibuo/PapaAsibuo.github.io/blob/master/README.md#universities-in-the-usa-2013)
+
+## Comic strip
+![intro](https://user-images.githubusercontent.com/71460438/99771356-01b66d00-2ad7-11eb-8aee-ed6335af4426.png)
+
 # Data Stories
 
 ## Infographics
@@ -117,9 +121,6 @@ Based on the findings, international students make up a mere (9%) of Lehigh Univ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Q3q_dpXddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This short video was created to motivate people to workout during the pandemic. It employs data for the numbers of gym memberships over the years and calls onto the viewers to decide what the number would look like for 2020. All data for this video was obtained from [Statista.com](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/).
-
-## Comic strip
-![intro](https://user-images.githubusercontent.com/71460438/99771356-01b66d00-2ad7-11eb-8aee-ed6335af4426.png)
 
 
 
