@@ -62,7 +62,7 @@ Data for this bar chart was obtained from Lehigh University's [Office of Institu
 
 ![Nba_Player_vs _Points_per_game_(age_34_season)_Points_per_game_(age_34_season)_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95696540-8628ec80-0c09-11eb-891d-693412c5e5a5.png)
 
-This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. Lebron came in 3rd place with Michael Jordan in 1st place. Data for this bar chart was obtained from [the sports rush website.](https://thesportsrush.com/comparing-lebron-james-michael-jordan-and-kobe-bryant-in-their-age-34-season/)
+This bar chart shows Michael Jordan, Kobe Bryant, and Lebron James, with their average points per game in their basketball career at age 34. Their age 34 season was chosen because it proved to be a relatively successful season for all 3 athletes with Michael Jordan taking the Chicago Bulls to the NBA finals and emerging victorious. Although Kobe's age 34 season wasn't the LA Lakers' best season, he made it to the all NBA 1st team, and Lebron James with one of his highest ever career Points per game (PPG). This infographic shows Lebron coming in 3rd place and Michael Jordan coming in 1st place. Data for this bar chart was obtained from [the sports rush website.](https://thesportsrush.com/comparing-lebron-james-michael-jordan-and-kobe-bryant-in-their-age-34-season/)
 
 ## Lehigh's Student Enrollment into various colleges over time
 
