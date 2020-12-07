@@ -30,8 +30,8 @@ All statistics were obtained from Lehigh University's [Office of Institutional R
 
 ![2](https://user-images.githubusercontent.com/71460438/100562957-12c06480-32b5-11eb-8628-46e6ce152a22.png)
 
-This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. 
-This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
+This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. When students conducting college research look at Lehigh, it often surfaces in student reviews that the institution's population is predominantly white in race. This pie chart validates the truth behind the popular claim, and puts the number of white people into context by using percentages as well as including the other races and their respective percentages. It ultimately paints a pitcure of how diverse Lehigh University is. This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
+
 ## Timelines
 
 ## Le-Laf: A history of Lehigh-Lafayette Football rivalry
