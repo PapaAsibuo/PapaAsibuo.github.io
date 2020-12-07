@@ -37,11 +37,13 @@ This data was obtained from the student profile section of the [University Stati
 ## Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+This is a timeline showing the key happenings in the history of Le-Laf, the Lehigh- Lafayette football rivalry. This timeline was created using [Timeline.js](http://timeline.knightlab.com).
+
 ## A history of Slave Trade
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-This timeline was created to outline the major events in Slave Trade and events that contributed to it's abolition. Various techniques were employed to ensure that the people in study were not seen as just " numbers" or " inanimate objects", but rather as humans. While creating this visualization, it was discovered that a number of things made it harder to empathize with the people in study. Two key examples are the fact that these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings as well as the use of the word "slave" to refer to people made the bad things that happened to them seem expected or justified to some extent.
+This timeline was created to outline the major events in Slave Trade and events that contributed to it's abolition. Various techniques were employed to ensure that the people in study were not seen as just " numbers" or " inanimate objects", but rather as humans. While creating this visualization, it was discovered that a number of things made it harder to empathize with the people in study. Two key examples are the fact that these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings as well as the use of the word "slave" to refer to people made the bad things that happened to them seem expected or justified to some extent. This timeline was created using [Timeline.js](http://timeline.knightlab.com).
 
 Here are links to all the sources of information used in making this timeline:
 [Important dates in slave trade](http://news.bbc.co.uk/cbbcnews/hi/newsid_6360000/newsid_6368500/6368507.stm)
