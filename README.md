@@ -12,7 +12,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 
 ## Comic strip
 ![intro](https://user-images.githubusercontent.com/71460438/99771356-01b66d00-2ad7-11eb-8aee-ed6335af4426.png)
-
+This is a comic strip that serves as an introduction to the following data vizualizations. Enjoy!
 # Data Stories
 
 ## Infographics
