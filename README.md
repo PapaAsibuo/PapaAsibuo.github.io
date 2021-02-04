@@ -1,7 +1,7 @@
 # PapaAsibuo.github.io
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
-I'm using github primarily for my Data Journalism class: From Stats to Stories, as well as to post some of my programming mini projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
+I'm using github primarily for my Data Journalism class: From Stats to Stories, and my Data Storytelling class, as well as to post some of my programming mini projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
 
 I love doing sports and I consider myself a social person. I am currently a first Year student at Lehigh.
 
