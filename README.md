@@ -128,6 +128,11 @@ This short video was created to motivate people to workout during the pandemic. 
 <iframe title="Lehigh Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-oPruw" src="https://datawrapper.dwcdn.net/oPruw/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="465"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<iframe title="Lehigh Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-oPruw" src="https://datawrapper.dwcdn.net/oPruw/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="465"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+Link to data
+
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-kofi-asibuo-b9b7a11b6/)
