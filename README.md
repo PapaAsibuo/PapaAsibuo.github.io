@@ -134,6 +134,8 @@ This short video was created to motivate people to workout during the pandemic. 
 <iframe title="Population of the College of Arts and Sciences over time" aria-label="Interactive line chart" id="datawrapper-chart-vTnjm" src="https://datawrapper.dwcdn.net/vTnjm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+This shows the population of Lehigh University's College of Arts & Sciences over the past 10 years. It generally decreased over the years with 2017 as its least populated year with 1,877 students and  2012 as the highest populated with 2,221 students enrolled.
+
 ## Microsoft Staff by Race and Ethnicity (2020)
 <iframe title="Demographic Representation of Microsoft 2020" aria-label="chart" id="datawrapper-chart-QUS7p" src="https://datawrapper.dwcdn.net/QUS7p/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="467"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
