@@ -130,13 +130,16 @@ This short video was created to motivate people to workout during the pandemic. 
 </script>
 
 
-## College of Arts & Sciences enrollment over the past 10 years
+## College of Arts & Sciences enrollment over time (2011-2021)
 <iframe title="Population of the College of Arts and Sciences over time" aria-label="Interactive line chart" id="datawrapper-chart-vTnjm" src="https://datawrapper.dwcdn.net/vTnjm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## 
+## Microsoft Staff by Race and Ethnicity (2020)
 <iframe title="Demographic Representation of Microsoft 2020" aria-label="chart" id="datawrapper-chart-QUS7p" src="https://datawrapper.dwcdn.net/QUS7p/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="467"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+This visualization was created to show the representation of each race within the entire Microsoft staff. It was found that the majority of staff members were white (50.2%) and the least represented were Native Hawaiian/ Pacific Islanders with a mere 0.2%.
+
+
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
 [Linkedin](https://www.linkedin.com/in/papa-kofi-asibuo-b9b7a11b6/)
