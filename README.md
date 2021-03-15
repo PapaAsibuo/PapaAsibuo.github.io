@@ -141,7 +141,7 @@ This shows the population of Lehigh University's College of Arts & Sciences over
 </script>
 This visualization was created to show the representation of each race within the entire Microsoft staff. It was found that the majority of staff members were white (50.2%) and the least represented were Native Hawaiian/ Pacific Islanders with a mere 0.2%.
 
-## Google Virtual Tour
+## A Day in My Life
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9HvETX18VMm/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 
