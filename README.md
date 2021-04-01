@@ -146,6 +146,7 @@ This visualization was created to show the representation of each race within th
 
 ## March Madness 2021 Tweets
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Tweets about NCAA March Madness" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=6afc1378e7ab46779045fd27a6901959&extent=-179.0211,-45.8996,-0.7789,72.524&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&disable_scroll=true&theme=dark"></iframe></div>
+This map shows geolocation data for tweets with the hashtag "MarchMadness2021", for the most anticipated tournament in College basketball- NCAA March Madness. This map displays tweets that were posted between March 24th 2021 and March 29th 2021. All tweet data was obtained from Twitter API using [TwitterUSA](https://bbspring.shinyapps.io/App24/)
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
