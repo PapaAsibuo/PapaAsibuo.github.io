@@ -76,9 +76,14 @@ body {
 <div class="navbar">
   <a href="https://papaasibuo.github.io#infographics">Infographics</a>
   <a href="https://papaasibuo.github.io#maps">Timelines</a>
-  <a href="https://papaasibuo.github.io#maps">Charts</a>
+  <a href="https://papaasibuo.github.io#maps">Graphs</a>
+  <a href="https://papaasibuo.github.io#InteractiveVisualizations">Interactive Visualizations</a>
+  <div class="dropdown-content">
+      <a href="https://papaasibuo.github.io#maps">World's Top Cycling Cities</a>
+      <a href="https://papaasibuo.github.io#maps">A-Level Economics Notes</a>
+      <a href="https://papaasibuo.github.io#maps">IGCSE Economics Notes</a>
+    </div>
   <a href="https://papaasibuo.github.io#maps">Maps</a>
-  <a href="https://papaasibuo.github.io#maps">Tableau</a>
    <a href="https://papaasibuo.github.io#maps">Video</a>
   
 </div>
