@@ -77,20 +77,6 @@ li.dropdown {
 </html>
 
 
-<div class="navbar">
-  <a href="https://ethank11.github.io/#infographics">Infographics</a>
-  <a href="https://ethank11.github.io/#timelines">Timelines</a>
-  <a href="https://ethank11.github.io/#charts">Charts</a>
-  <a href="https://ethank11.github.io/#maps">Maps</a>
-  <a href="https://ethank11.github.io/#tableau">Tableau</a>
-   <a href="https://ethank11.github.io/#video">Video</a>
-  
-</div>
-
-
-</body>
-</html>
-
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
 I'm using github primarily for my Data Journalism class: From Stats to Stories and for my Data Storytelling class, as well as to post the code to some of my programming projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
