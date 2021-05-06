@@ -41,7 +41,7 @@ body {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: green;
 }
 
 .dropdown-content {
@@ -77,7 +77,7 @@ body {
   <a href="https://ethank11.github.io/#infographics">Infographics</a>
   <a href="https://ethank11.github.io/#timelines">Timelines</a>
   <a href="https://ethank11.github.io/#charts">Charts</a>
-  <a href="https://ethank11.github.io/#maps">Maps</a>
+  <a href="https://papaasibuo.github.io#maps">Maps</a>
   <a href="https://ethank11.github.io/#tableau">Tableau</a>
    <a href="https://ethank11.github.io/#video">Video</a>
   
