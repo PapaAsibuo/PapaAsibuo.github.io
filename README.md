@@ -78,17 +78,10 @@ body {
   <a href="https://papaasibuo.github.io#maps">Timelines</a>
   <a href="https://papaasibuo.github.io#maps">Graphs</a>
   <a href="https://papaasibuo.github.io#Interactive Visualizations">Interactive Visualizations</a>
-  <div class="dropdown-content">
-      <a href="https://papaasibuo.github.io#maps">World's Top Cycling Cities</a>
-      <a href="https://papaasibuo.github.io#maps">A-Level Economics Notes</a>
-      <a href="https://papaasibuo.github.io#maps">IGCSE Economics Notes</a>
-    </div>
   <a href="https://papaasibuo.github.io#maps">Maps</a>
    <a href="https://papaasibuo.github.io#maps">Video</a>
   <a href="https://papaasibuo.github.io#maps">Virtual Tours</a>
-  <div class="dropdown-content">
-      <a href="https://papaasibuo.github.io#Virtual Tours">A Day In My Life</a>
-</div>
+  
 
 
 </body>
