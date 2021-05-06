@@ -1,4 +1,93 @@
 # PapaAsibuo.github.io
+# Home 
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://ethank11.github.io/#infographics">Infographics</a>
+  <a href="https://ethank11.github.io/#timelines">Timelines</a>
+  <a href="https://ethank11.github.io/#charts">Charts</a>
+  <a href="https://ethank11.github.io/#maps">Maps</a>
+  <a href="https://ethank11.github.io/#tableau">Tableau</a>
+   <a href="https://ethank11.github.io/#video">Video</a>
+  
+</div>
+
+
+</body>
+</html>
+
+
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
 I'm using github primarily for my Data Journalism class: From Stats to Stories and for my Data Storytelling class, as well as to post the code to some of my programming projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
