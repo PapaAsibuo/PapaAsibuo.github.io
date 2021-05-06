@@ -59,7 +59,7 @@ li.dropdown {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <li><a href="https://papaasibuo.github.io/#Infographics">Infographics</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
