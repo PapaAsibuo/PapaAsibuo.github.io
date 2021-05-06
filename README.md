@@ -85,7 +85,9 @@ body {
     </div>
   <a href="https://papaasibuo.github.io#maps">Maps</a>
    <a href="https://papaasibuo.github.io#maps">Video</a>
-  
+  <a href="https://papaasibuo.github.io#maps">Virtual Tours</a>
+  <div class="dropdown-content">
+      <a href="https://papaasibuo.github.io#maps">A Day In My Life</a>
 </div>
 
 
@@ -234,6 +236,7 @@ This shows the population of Lehigh University's College of Arts & Sciences over
 </script>
 This visualization was created to show the representation of each race within the entire Microsoft staff. It was found that the majority of staff members were white (50.2%) and the least represented were Native Hawaiian/ Pacific Islanders with a mere 0.2%.
 
+## Virtual Tours
 ## A Day in My Life - Virtual Tour
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9HvETX18VMm/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
