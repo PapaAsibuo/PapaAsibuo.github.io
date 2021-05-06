@@ -60,6 +60,9 @@ li.dropdown {
 <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="https://papaasibuo.github.io/#Infographics">Infographics</a></li>
+  <li><a href="https://papaasibuo.github.io/#Timelines">Timelines</a></li>
+  <li><a href="https://papaasibuo.github.io/## Gym membership statistics over the last 20 years">Videos</a></li>
+  <li><a href="https://papaasibuo.github.io/#Infographics">Virtual Tours</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
