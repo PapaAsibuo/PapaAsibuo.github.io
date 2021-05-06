@@ -74,12 +74,12 @@ body {
 <body>
 
 <div class="navbar">
-  <a href="https://ethank11.github.io/#infographics">Infographics</a>
-  <a href="https://ethank11.github.io/#timelines">Timelines</a>
-  <a href="https://ethank11.github.io/#charts">Charts</a>
+  <a href="https://papaasibuo.github.io#infographics">Infographics</a>
+  <a href="https://papaasibuo.github.io#maps">Timelines</a>
+  <a href="https://papaasibuo.github.io#maps">Charts</a>
   <a href="https://papaasibuo.github.io#maps">Maps</a>
-  <a href="https://ethank11.github.io/#tableau">Tableau</a>
-   <a href="https://ethank11.github.io/#video">Video</a>
+  <a href="https://papaasibuo.github.io#maps">Tableau</a>
+   <a href="https://papaasibuo.github.io#maps">Video</a>
   
 </div>
 
