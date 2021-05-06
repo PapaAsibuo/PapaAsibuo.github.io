@@ -1,5 +1,29 @@
 # PapaAsibuo.github.io
-
+<HTML>
+<head> 
+	<TITLE>CIE Fairy- Home</TITLE>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body style="background-color: #FDA7DF;">
+<ul>
+  <li><a href="home.html">Home</a></li>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Notes</a>
+    <div class="dropdown-content">
+      <a href="#">A-Level Geography Notes</a>
+      <a href="#">A-Level Economics Notes</a>
+      <a href="#">IGCSE Economics Notes</a>
+    </div>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Resources</a>
+    <div class="dropdown-content">
+      <a href="geocasestudy.html">A-Level Geography </a>
+      <a href="#">A-Level Economics </a>
+      <a href="#">IGCSE Economics </a>
+    </div>
+  <li><a href="contactus.html">Contact Us</a></li>
+<a class= "active" href="home.html"></a></li>
+</ul>
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
 I'm using github primarily for my Data Journalism class: From Stats to Stories and for my Data Storytelling class, as well as to post the code to some of my programming projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
