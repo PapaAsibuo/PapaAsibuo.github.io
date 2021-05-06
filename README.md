@@ -61,11 +61,14 @@ li.dropdown {
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+    <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Police Brutality Stories</a>
+      <a href="#">Top Cycling Cities</a>
+      <a href="#">Top Tik Tok Users</a>
+      <a href="#">Universities in the USA</a>
+      <a href="#">Where Lehigh applicants come from</a>
+      <a href="#">March Madness Tweets</a>
     </div>
   </li>
 </ul>
