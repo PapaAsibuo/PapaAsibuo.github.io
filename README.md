@@ -61,8 +61,8 @@ li.dropdown {
   <li><a href="#home">Home</a></li>
   <li><a href="#Infographics">Infographics</a></li>
   <li><a href="#Timelines">Timelines</a></li>
-  <li><a href="##Gym membership statistics over the last 20 years">Videos</a></li>
-  <li><a href="#Virtual Tours">Virtual Tours</a></li>
+  <li><a href="#Videos">Videos</a></li>
+  <li><a href="#VirtualTours">Virtual Tours</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
@@ -198,7 +198,7 @@ Since the bulk of the applicants were from America, it seemed worthwhile to inve
 
 Based on the findings, international students make up a mere (9%) of Lehigh University applicants. However, Lehigh’s main contributors within the USA are New York, New Jersey, and Pennsylvania. This implies that Lehigh is more diverse than it may seem, as, out of these three, New York and New Jersey are in the top 10 most ethnically diverse states according to [WalletHub](https://wallethub.com/edu/most-least-diverse-states-in-america/38262). Here’s the link to the [original data set](https://docs.google.com/spreadsheets/d/1q8GDSx1Gp12doecsagcVVjftegMUzVxXMT69ZRMMN-c/edit#gid=157778056)
 
-
+# Videos
 ## Gym membership statistics over the last 20 years
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Q3q_dpXddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
