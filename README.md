@@ -59,9 +59,9 @@ li.dropdown {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#Infographics">Infographics</a></li>
-  <li><a href="#Timelines">Timelines</a></li>
-  <li><a href="#Videos">Videos</a></li>
+  <li><a href="https://papaasibuo.github.io/#Infographics">Infographics</a></li>
+  <li><a href="https://papaasibuo.github.io/#Timelines">Timelines</a></li>
+  <li><a href="https://papaasibuo.github.io/#Videos">Videos</a></li>
   <li><a href="#VirtualTours">Virtual Tours</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
@@ -77,7 +77,6 @@ li.dropdown {
 </ul>
 </body>
 </html>
-
 
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
