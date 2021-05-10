@@ -59,26 +59,22 @@ li.dropdown {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="https://papaasibuo.github.io/#Infographics">Infographics</a></li>
-  <li><a href="https://papaasibuo.github.io/#Timelines">Timelines</a></li>
-  <li><a href="https://papaasibuo.github.io/## Gym membership statistics over the last 20 years">Videos</a></li>
-  <li><a href="https://papaasibuo.github.io/#Infographics">Virtual Tours</a></li>
+  <li><a href="#Infographics">Infographics</a></li>
+  <li><a href="#Timelines">Timelines</a></li>
+  <li><a href="## Gym membership statistics over the last 20 years">Videos</a></li>
+  <li><a href="#Virtual Tours">Virtual Tours</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
       <a href="https://papaasibuo.github.io/#Police Brutality Stories">Police Brutality Stories</a>
-      <a href="#">Top Cycling Cities</a>
-      <a href="#">Top Tik Tok Users</a>
-      <a href="#">Universities in the USA</a>
-      <a href="#">Where Lehigh applicants come from</a>
-      <a href="#">March Madness Tweets</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Top Cycling Cities</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Top Tik Tok Users</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Universities in the USA</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Where Lehigh applicants come from</a>
+      <a href="https://papaasibuo.github.io/#Police Brutality Stories">March Madness Tweets</a>
     </div>
   </li>
 </ul>
-
-<h3>Dropdown Menu inside a Navigation Bar</h3>
-<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
-
 </body>
 </html>
 
