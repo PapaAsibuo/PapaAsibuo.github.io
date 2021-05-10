@@ -61,7 +61,7 @@ li.dropdown {
   <li><a href="#home">Home</a></li>
   <li><a href="#Infographics">Infographics</a></li>
   <li><a href="#Timelines">Timelines</a></li>
-  <li><a href="## Gym membership statistics over the last 20 years">Videos</a></li>
+  <li><a href="##Gym membership statistics over the last 20 years">Videos</a></li>
   <li><a href="#Virtual Tours">Virtual Tours</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
