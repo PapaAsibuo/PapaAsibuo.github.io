@@ -95,7 +95,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 This is a comic strip that serves as an introduction to the following data vizualizations. Enjoy!
 # Data Stories
 
-## Infographics
+# Infographics
 
 ## Where do lehigh students live? (2019)
 ![Where do lehigh students live?-2](https://user-images.githubusercontent.com/71460438/100537210-5916b480-321e-11eb-82d4-10e7a3116387.png)
