@@ -211,7 +211,7 @@ This short video was created to motivate people to workout during the pandemic. 
 ## Lehigh University Enrollment by College (Spring 2020)
 <iframe title="Lehigh Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-oPruw" src="https://datawrapper.dwcdn.net/oPruw/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="630"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
+This visualization was created to show the percentage population of each college in Lehigh. It was found that the majority of students were in the college of Arts & Sciences (36.3%) and the least populous college was General College Division.
 
 ## College of Arts & Sciences enrollment over time (2011-2021)
 <iframe title="Population of the College of Arts and Sciences over time" aria-label="Interactive line chart" id="datawrapper-chart-vTnjm" src="https://datawrapper.dwcdn.net/vTnjm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
