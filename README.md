@@ -67,11 +67,11 @@ li.dropdown {
     <a href="javascript:void(0)" class="dropbtn">Maps</a>
     <div class="dropdown-content">
       <a href="https://papaasibuo.github.io/#Police Brutality Stories">Police Brutality Stories</a>
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Top Cycling Cities</a>
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Top Tik Tok Users</a>
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Universities in the USA</a>
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Where Lehigh applicants come from</a>
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">March Madness Tweets</a>
+      <a href="https://papaasibuo.github.io/#World’s Top Cycling Cities (2019)">Top Cycling Cities</a>
+      <a href="https://papaasibuo.github.io/#World’s Top Tik Tok Users (2019)">Top Tik Tok Users</a>
+      <a href="https://papaasibuo.github.io/#Universities in the USA (2013)">Universities in the USA</a>
+      <a href="https://papaasibuo.github.io/#Lehigh University Applicants (2020)">Where Lehigh applicants come from</a>
+      <a href="https://papaasibuo.github.io/#March Madness 2021 Tweets">March Madness Tweets</a>
     </div>
   </li>
 </ul>
