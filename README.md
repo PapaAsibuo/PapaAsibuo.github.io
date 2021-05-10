@@ -116,7 +116,7 @@ All statistics were obtained from Lehigh University's [Office of Institutional R
 
 This infographic was created to show the different races (and their proportions) within the Lehigh Undergraduate community. When students conducting college research look at Lehigh, it often surfaces in student reviews that the institution's population is predominantly white in race. This pie chart validates the truth behind the popular claim, and puts the number of white people into context by using percentages as well as including the other races and their respective percentages. It ultimately paints a pitcure of how diverse Lehigh University is. This data was obtained from the student profile section of the [University Statistics](https://www1.lehigh.edu/about/university-statistics) page on Lehigh University's website.
 
-## Timelines
+# Timelines
 
 ## Le-Laf: A history of Lehigh-Lafayette Football rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1jgtM4VP_zsQLukg3ar6rH647WuxGZl-QwS2Fv2BeB9I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -126,7 +126,7 @@ This is a timeline showing the key happenings in the history of Le-Laf, the Lehi
 ## A history of Slave Trade
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KritiNP341rte0x-M1J4zXfpLGmsivEvk3EewjSO8KQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-# Maps
+
 This timeline was created to outline the major events in Slave Trade and events that contributed to its abolition. Various techniques were employed to ensure that the people in study were not seen as just " numbers" or " inanimate objects", but rather as humans. While creating this visualization, it was uncovered that a number of things made it harder to empathize with the people in study. Two key examples are the fact that these events were so long ago (in a time without cameras) as such, the subtitute of pictures with paintings as well as the use of the word "slave" to refer to people made the bad things that happened to them seem expected or justified to some extent. This timeline was created using [Timeline.js](http://timeline.knightlab.com).
 
 Here are links to all the sources of information used in making this timeline:
@@ -169,7 +169,7 @@ This scatter plot depicts the relationship between parent income and child incom
 This line graph shows how the selectivity of Lehigh University has changed over time. The acceptance rate of Lehigh University has ultimately decreased over the past 10 years years. With the highest in 2010(37.9%) and the lowest in 2018(22.3%). There is a large spike from 2018 to 2019. During this period, Lehigh experienced a decrease in applicants, and in order to maintain (roughly) the same number of students, Lehigh granted a similar number of admissions. Because it is ultimately the same number of admits out of a lesser number of applicants, this provided a greater percentage of admits, which explains the spike after 2018.
 
 Data for this line graph was obtained from [AcceptanceRate.com](http://www.acceptancerate.com/schools/lehigh-university) and [CollegeTuitionCompare.com](https://www.collegetuitioncompare.com/trends/lehigh-university/admission/).  
-## Interactive Visualizations 
+# Interactive Visualizations 
 
 ## World's Top Cycling Cities (2019)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
@@ -224,7 +224,7 @@ This shows the population of Lehigh University's College of Arts & Sciences over
 </script>
 This visualization was created to show the representation of each race within the entire Microsoft staff. It was found that the majority of staff members were white (50.2%) and the least represented were Native Hawaiian/ Pacific Islanders with a mere 0.2%.
 
-## Virtual Tours
+# Virtual Tours
 ## A Day in My Life - Virtual Tour
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9HvETX18VMm/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
