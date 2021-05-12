@@ -75,11 +75,12 @@ body {
 
 <div class="navbar">
   <a href="https://papaasibuo.github.io/#infographics">Infographics</a>
-  <a href="https://ethank11.github.io/#timelines">Timelines</a>
-  <a href="https://ethank11.github.io/#charts">Charts</a>
-  <a href="https://ethank11.github.io/#maps">Interactive Charts</a>
-  <a href="https://ethank11.github.io/#tableau">Virtual Tours</a>
-   <a href="https://ethank11.github.io/#video">Maps</a>
+  <a href="https://papaasibuo.github.io/#timelines">Timelines</a>
+  <a href="https://papaasibuo.github.io/#charts">Charts</a>
+  <a href="https://papaasibuo.github.io/#maps">Interactive Charts</a>
+  <a href="https://papaasibuo.github.io/#videos">Videos</a>
+  <a href="https://papaasibuo.github.io/#tableau">Virtual Tours</a>
+   <a href="https://papaasibuo.github.io/#maps">Maps</a>
   
 </div>
 
@@ -140,7 +141,7 @@ Here are links to all the sources of information used in making this timeline:
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
 [Dolben's Act of 1788](https://chnm.gmu.edu/cyh/primary-sources/146)
 
-
+# Charts
 ## Undergraduate Enrollment in Each College in Lehigh (2019)
  
  ![2019_Percent_of_Undergraduate_Enrollment_in_each_College_2019_Percent_of_Undergraduate_Enrollment_chartbuilder-2](https://user-images.githubusercontent.com/71460438/95499750-c111f280-0973-11eb-9cb1-a58be111575a.png)
