@@ -141,6 +141,7 @@ Here are links to all the sources of information used in making this timeline:
 [Story of Takyi](https://face2faceafrica.com/article/the-story-of-takyi-the-ghanaian-king-who-led-a-slave-rebellion-in-jamaica-in-1760)
 [Dolben's Act of 1788](https://chnm.gmu.edu/cyh/primary-sources/146)
 
+
 # Charts
 ## Undergraduate Enrollment in Each College in Lehigh (2019)
  
