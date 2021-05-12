@@ -1,6 +1,4 @@
 # PapaAsibuo.github.io
-# Home 
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,6 +72,7 @@ body {
 <body>
 
 <div class="navbar">
+  <a href="https://papaasibuo.github.io/#home">Home</a>
   <a href="https://papaasibuo.github.io/#infographics">Infographics</a>
   <a href="https://papaasibuo.github.io/#timelines">Timelines</a>
   <a href="https://papaasibuo.github.io/#charts">Charts</a>
@@ -87,6 +86,7 @@ body {
 
 </body>
 </html>
+# Home 
 
 I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineering at Lehigh University.
 
