@@ -183,12 +183,6 @@ Data for this line graph was obtained from [AcceptanceRate.com](http://www.accep
 
 These visualizations were created to illustrate the popularity of off campus parties in Lehigh University, as well as to assess the safety of students at these parties.  Off campus parties proved to be very popular with (99%) of students that responded having been to one. They also proved to be a relatively safe form of partying with (56.6%) of students never feeling unsafe at an off campus party. It was surprising to find out that more males than females had felt unsafe at off campus parties, as off campus housing is a popular residence location for fraternity members that are not residing in fraternity houses (as they have limited space). As such, they would be present at off campus parties. This male dominance was expected to contribute to  more females than males feeling unsafe at off campus parties, but this was not the case. Safety was assessed by asking whether students have ever felt unsafe at these off campus parties. Unsafe conditions can refer to anything from a student being scared of a group of suspicious looking people down the street to a student being robbed at gunpoint: essentially anything that can make one feel uncomfortable. These [results](https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit?usp=sharing) were obtained from a [survey](https://coursesite.lehigh.edu/pluginfile.php/3509582/course/section/2571305/Lehigh%20Party%20Scene%20Survey.pdf) sent out in the 2015-2016 academic year.
 
-# Videos
-## Gym membership statistics over the last 20 years
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q3q_dpXddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-This short video was created to motivate people to workout during the pandemic. It employs data for the numbers of gym memberships over the years and calls onto the viewers to decide what the number would look like for 2020. All data for this video was obtained from [Statista.com](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/).
-
 ## Lehigh University Enrollment by College (Spring 2020)
 <iframe title="Lehigh Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-oPruw" src="https://datawrapper.dwcdn.net/oPruw/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="630"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -204,6 +198,13 @@ This shows the population of Lehigh University's College of Arts & Sciences over
 <iframe title="Demographic Representation of Microsoft 2020" aria-label="chart" id="datawrapper-chart-QUS7p" src="https://datawrapper.dwcdn.net/QUS7p/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="467"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 This visualization was created to show the representation of each race within the entire Microsoft staff. It was found that the majority of staff members were white (50.2%) and the least represented were Native Hawaiian/ Pacific Islanders with a mere 0.2%.
+
+# Videos
+## Gym membership statistics over the last 20 years
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Q3q_dpXddA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This short video was created to motivate people to workout during the pandemic. It employs data for the numbers of gym memberships over the years and calls onto the viewers to decide what the number would look like for 2020. All data for this video was obtained from [Statista.com](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/).
+
 
 # Virtual Tours
 ## A Day in My Life - Virtual Tour
