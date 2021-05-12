@@ -77,7 +77,7 @@ body {
   <a href="https://papaasibuo.github.io/#infographics">Infographics</a>
   <a href="https://papaasibuo.github.io/#timelines">Timelines</a>
   <a href="https://papaasibuo.github.io/#charts">Charts</a>
-  <a href="https://papaasibuo.github.io/#interactive visualizations">Interactive Charts</a>
+  <a href="https://papaasibuo.github.io/#.">Interactive Charts</a>
   <a href="https://papaasibuo.github.io/#videos">Videos</a>
   <a href="https://papaasibuo.github.io/#virtual tours">Virtual Tours</a>
    <a href="https://papaasibuo.github.io/#maps">Maps</a>
@@ -175,8 +175,8 @@ This scatter plot depicts the relationship between parent income and child incom
 This line graph shows how the selectivity of Lehigh University has changed over time. The acceptance rate of Lehigh University has ultimately decreased over the past 10 years years. With the highest in 2010(37.9%) and the lowest in 2018(22.3%). There is a large spike from 2018 to 2019. During this period, Lehigh experienced a decrease in applicants, and in order to maintain (roughly) the same number of students, Lehigh granted a similar number of admissions. Because it is ultimately the same number of admits out of a lesser number of applicants, this provided a greater percentage of admits, which explains the spike after 2018.
 
 Data for this line graph was obtained from [AcceptanceRate.com](http://www.acceptancerate.com/schools/lehigh-university) and [CollegeTuitionCompare.com](https://www.collegetuitioncompare.com/trends/lehigh-university/admission/).  
-# Interactive Visualizations 
 
+# Interactive Charts #.
 
 ## Lehigh University Party Scene(off Campus)
 <div class='tableauPlaceholder' id='viz1604431393802' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LehighUniversityOffCampusPartyScene&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LehighUniversityOffCampusPartyScene&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LehighUniversityOffCampusPartyScene&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1604431393802'); var vizElement = divElement.getElementsByTagName('object')[0];  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='927px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
