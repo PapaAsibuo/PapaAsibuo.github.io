@@ -1,34 +1,47 @@
 # PapaAsibuo.github.io
 # Home 
+
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
   overflow: hidden;
   background-color: #333;
 }
 
-li {
+.navbar a {
   float: left;
-}
-
-li a, .dropbtn {
-  display: inline-block;
+  font-size: 16px;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
-  background-color: #9ef547;
+.dropdown {
+  float: left;
+  overflow: hidden;
 }
 
-li.dropdown {
-  display: inline-block;
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #9ef547;
 }
 
 .dropdown-content {
@@ -41,6 +54,7 @@ li.dropdown {
 }
 
 .dropdown-content a {
+  float: none;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
@@ -48,7 +62,9 @@ li.dropdown {
   text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #9ef547;}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -57,24 +73,17 @@ li.dropdown {
 </head>
 <body>
 
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="https://papaasibuo.github.io/#Infographics">Infographics</a></li>
-  <li><a href="https://papaasibuo.github.io/#Timelines">Timelines</a></li>
-  <li><a href="https://papaasibuo.github.io/#Videos">Videos</a></li>
-  <li><a href="#VirtualTours">Virtual Tours</a></li>
-  <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Maps</a>
-    <div class="dropdown-content">
-      <a href="https://papaasibuo.github.io/#Police Brutality Stories">Police Brutality Stories</a>
-      <a href="https://papaasibuo.github.io/#World’s Top Cycling Cities (2019)">Top Cycling Cities</a>
-      <a href="https://papaasibuo.github.io/#World’s Top Tik Tok Users (2019)">Top Tik Tok Users</a>
-      <a href="https://papaasibuo.github.io/#Universities in the USA (2013)">Universities in the USA</a>
-      <a href="https://papaasibuo.github.io/#Lehigh University Applicants (2020)">Where Lehigh applicants come from</a>
-      <a href="https://papaasibuo.github.io/#March Madness 2021 Tweets">March Madness Tweets</a>
-    </div>
-  </li>
-</ul>
+<div class="navbar">
+  <a href="https://ethank11.github.io/#infographics">Infographics</a>
+  <a href="https://ethank11.github.io/#timelines">Timelines</a>
+  <a href="https://ethank11.github.io/#charts">Charts</a>
+  <a href="https://ethank11.github.io/#maps">Maps</a>
+  <a href="https://ethank11.github.io/#tableau">Tableau</a>
+   <a href="https://ethank11.github.io/#video">Video</a>
+  
+</div>
+
+
 </body>
 </html>
 
