@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 .navbar {
@@ -77,9 +77,9 @@ body {
   <a href="https://ethank11.github.io/#infographics">Infographics</a>
   <a href="https://ethank11.github.io/#timelines">Timelines</a>
   <a href="https://ethank11.github.io/#charts">Charts</a>
-  <a href="https://ethank11.github.io/#maps">Maps</a>
-  <a href="https://ethank11.github.io/#tableau">Tableau</a>
-   <a href="https://ethank11.github.io/#video">Video</a>
+  <a href="https://ethank11.github.io/#maps">Interactive Charts</a>
+  <a href="https://ethank11.github.io/#tableau">Virtual Tours</a>
+   <a href="https://ethank11.github.io/#video">Maps</a>
   
 </div>
 
@@ -101,7 +101,7 @@ My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Co
 ## Comic strip
 ![intro](https://user-images.githubusercontent.com/71460438/99771356-01b66d00-2ad7-11eb-8aee-ed6335af4426.png)
 This is a comic strip that serves as an introduction to the following data vizualizations. Enjoy!
-# Data Stories
+
 
 # Infographics
 
@@ -180,9 +180,6 @@ Data for this line graph was obtained from [AcceptanceRate.com](http://www.accep
 <div class='tableauPlaceholder' id='viz1604431393802' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LehighUniversityOffCampusPartyScene&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LehighUniversityOffCampusPartyScene&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Le&#47;LehighUniversityOffCampusPartyScene&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1604431393802'); var vizElement = divElement.getElementsByTagName('object')[0];  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='927px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 These visualizations were created to illustrate the popularity of off campus parties in Lehigh University, as well as to assess the safety of students at these parties.  Off campus parties proved to be very popular with (99%) of students that responded having been to one. They also proved to be a relatively safe form of partying with (56.6%) of students never feeling unsafe at an off campus party. It was surprising to find out that more males than females had felt unsafe at off campus parties, as off campus housing is a popular residence location for fraternity members that are not residing in fraternity houses (as they have limited space). As such, they would be present at off campus parties. This male dominance was expected to contribute to  more females than males feeling unsafe at off campus parties, but this was not the case. Safety was assessed by asking whether students have ever felt unsafe at these off campus parties. Unsafe conditions can refer to anything from a student being scared of a group of suspicious looking people down the street to a student being robbed at gunpoint: essentially anything that can make one feel uncomfortable. These [results](https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit?usp=sharing) were obtained from a [survey](https://coursesite.lehigh.edu/pluginfile.php/3509582/course/section/2571305/Lehigh%20Party%20Scene%20Survey.pdf) sent out in the 2015-2016 academic year.
-
-
-
 
 # Videos
 ## Gym membership statistics over the last 20 years
