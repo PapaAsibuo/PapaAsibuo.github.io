@@ -77,9 +77,9 @@ body {
   <a href="https://papaasibuo.github.io/#infographics">Infographics</a>
   <a href="https://papaasibuo.github.io/#timelines">Timelines</a>
   <a href="https://papaasibuo.github.io/#charts">Charts</a>
-  <a href="https://papaasibuo.github.io/#.">Interactive Charts</a>
+  <a href="https://papaasibuo.github.io/#interactivecharts">Interactive Charts</a>
   <a href="https://papaasibuo.github.io/#videos">Videos</a>
-  <a href="https://papaasibuo.github.io/#virtual tours">Virtual Tours</a>
+  <a href="https://papaasibuo.github.io/#virtualtours">Virtual Tours</a>
    <a href="https://papaasibuo.github.io/#maps">Maps</a>
   
 </div>
@@ -206,7 +206,7 @@ This visualization was created to show the representation of each race within th
 This short video was created to motivate people to workout during the pandemic. It employs data for the numbers of gym memberships over the years and calls onto the viewers to decide what the number would look like for 2020. All data for this video was obtained from [Statista.com](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/).
 
 
-# Virtual Tours
+# VirtualTours
 ## A Day in My Life - Virtual Tour
 <iframe width="100%" height="480px" src="https://poly.google.com/view/9HvETX18VMm/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
