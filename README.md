@@ -217,18 +217,6 @@ This short video was created to motivate people to workout during the pandemic. 
 This is a virtual tour created to show my daily commute from home to work to my family back at home that never had the chance to come see the Lehigh University  campus due to the coronavirus pandemic.
 # Maps
 
-## World's Top Cycling Cities (2019)
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
-
-This Map shows the top 20 cycling cities in the world as of 2019. This map was created using [Google My Maps](http://google.com/mymaps). Data for this map was obtained from [Wired.com](https://www.wired.com)
- 
- 
-## World's Top Tik Tok Users (2019)
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fc9sYy5iL7v5CqQ1rZuF1fqVffE7ifwY" width="640" height="480"></iframe>
-
-Tik Tok is an app that has recently gained popularity and is said to be very addictive and, for reasons concerning infringements of privacy as well as allegations regarding the encouragement of pornography, has been banned in some countries( including India, Indonesia, Bangladesh, and others). This map was created to show the top 10 countries with the highest tik tok usage in terms of the number of users as well as the most popular trends in each of the 10 countries. The country with the greatest number of tik tok users is India with a total of 119.3 million users, second is the USA with 39.6 million users and third is Turkey with 28.4 million users. The data for this map was obtained from [Routenote](https://routenote.com/blog/top-10-countries-with-the-largest-number-of-tiktok-users/). This map was created using [Google My Map](http://google.com/mymaps).
-
 ## Universities in the USA (2013)
 <div class='tableauPlaceholder' id='viz1604899503889' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UniversitiesintheUSA&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UniversitiesintheUSA&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UniversitiesintheUSA&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1604899503889'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
@@ -252,8 +240,18 @@ Based on the findings, international students make up a mere (9%) of Lehigh Univ
 
 <div class='tableauPlaceholder' id='viz1618802953293' style='position: relative'><noscript><a href='#'><img alt='Police Brutality (2018-2021) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PoliceBrutalityfrom2018toApril2021&#47;PoliceBrutality2018-2021&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PoliceBrutalityfrom2018toApril2021&#47;PoliceBrutality2018-2021' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PoliceBrutalityfrom2018toApril2021&#47;PoliceBrutality2018-2021&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1618802953293'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 These maps show instances where people were killed by the police from 2018 to April 2021 in the United States. This project has been divided into three categories: one that shows their names and ages, one that shows whether there were signs of mental illness when the encounter happened, and one that shows the gender of the victim. All Data was obtained from [The Washington Post](https://github.com/washingtonpost/data-police-shootings) via [data.world](https://data.world/data-society/fatal-police-shootings). There was an astonishing gap between men being killed by the police and women being killed by the police with the number of men significantly higher.
+ 
+## World's Top Tik Tok Users (2019)
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1fc9sYy5iL7v5CqQ1rZuF1fqVffE7ifwY" width="640" height="480"></iframe>
 
+Tik Tok is an app that has recently gained popularity and is said to be very addictive and, for reasons concerning infringements of privacy as well as allegations regarding the encouragement of pornography, has been banned in some countries( including India, Indonesia, Bangladesh, and others). This map was created to show the top 10 countries with the highest tik tok usage in terms of the number of users as well as the most popular trends in each of the 10 countries. The country with the greatest number of tik tok users is India with a total of 119.3 million users, second is the USA with 39.6 million users and third is Turkey with 28.4 million users. The data for this map was obtained from [Routenote](https://routenote.com/blog/top-10-countries-with-the-largest-number-of-tiktok-users/). This map was created using [Google My Map](http://google.com/mymaps).
+
+## World's Top Cycling Cities (2019)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1izgKVoIZgdCzQsTuj4D4Iqu4RMrXdI_V" width="640" height="480"></iframe>
+
+This Map shows the top 20 cycling cities in the world as of 2019. This map was created using [Google My Maps](http://google.com/mymaps). Data for this map was obtained from [Wired.com](https://www.wired.com)
+ 
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
