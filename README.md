@@ -92,7 +92,7 @@ I am Papa Kofi Asibuo  and I'm from Ghana. Studying Computer Science& Engineerin
 
 I'm using github primarily for my Data Journalism class: From Stats to Stories and for my Data Storytelling class, as well as to post the code to some of my programming projects. I picked up this class to explore the applications of data science, as well as to broaden my scope of knowledge through the journalism aspect.
 
-I love doing sports and I consider myself a social person. I am currently a first Year student at Lehigh.
+I love doing sports and I consider myself a social person. I am currently a second Year student at Lehigh.
 
 I have interests in programming, web app development, and 3D Animating.
 My programming languages are: Java, PHP, HTML, CSS, and some C# using ASP.NET.Core Razorpages, and I animate using the blender 2.79b software.
