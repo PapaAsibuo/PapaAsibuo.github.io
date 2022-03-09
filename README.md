@@ -252,6 +252,8 @@ Tik Tok is an app that has recently gained popularity and is said to be very add
 
 This Map shows the top 20 cycling cities in the world as of 2019. This map was created using [Google My Maps](http://google.com/mymaps). Data for this map was obtained from [Wired.com](https://www.wired.com)
  
+# Visuals for the Brown and White
+[The Brown and White](https://thebrownandwhite.com) is Lehigh University's Student led Newspaper, and as a member of the data team, I make data visualizations to go with the various stories reporters write with (usually on a weekly basis). I recently thought it might be a cool idea to keep track of the ones I make over here, so saty tuned! Coming soonnn...
 
 ## Connect with me
 [Youtube](https://www.youtube.com/channel/UCoOl6lKOpyz07C10jgNMIsQ?view_as=subscriber)
