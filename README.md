@@ -80,7 +80,7 @@ body {
   <a href="https://papaasibuo.github.io/#videos">Videos</a>
   <a href="https://papaasibuo.github.io/#virtualtours">Virtual Tours</a>
    <a href="https://papaasibuo.github.io/#maps">Maps</a>
-  <a href="https://papaasibuo.github.io/#Brown&White">Visuals for the Brown and White</a>
+  <a href="https://papaasibuo.github.io/#Brown&White">B&W</a>
   
 </div>
 
