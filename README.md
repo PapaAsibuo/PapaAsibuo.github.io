@@ -78,7 +78,7 @@ body {
   <a href="https://papaasibuo.github.io/#charts">Charts</a>
   <a href="https://papaasibuo.github.io/#interactivecharts">Interactive Charts</a>
   <a href="https://papaasibuo.github.io/#videos">Videos</a>
-  <a href="https://papaasibuo.github.io/#virtualtours">Virtual Tours</a>
+  <a href="https://papaasibuo.github.io/#virtualtours">VT</a>
    <a href="https://papaasibuo.github.io/#maps">Maps</a>
   <a href="https://papaasibuo.github.io/#Brown&White">B&W</a>
   
